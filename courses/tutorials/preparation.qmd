@@ -1,0 +1,17 @@
+---
+title: 'Preparation'
+---
+
+# Carbon Coating
+
+## Preparing the Sample
+{{< video https://vimeo.com/516074126 >}}
+
+## Coating the Sample
+{{< video https://vimeo.com/516115490 >}}
+
+## New Carbon Rods
+{{< video https://vimeo.com/516112496 >}}
+
+## Remove a Carbon Coating
+{{< video https://vimeo.com/544542467 >}}

@@ -1,0 +1,11 @@
+---
+title: 'Courses & Tutorials'
+---
+
+# Courses
+Two courses are currenlty available:\
+1. Data Science (german only, english coming later 2023)\
+2. Cosmochemistry (german & english)\
+
+# Tutorials
+Check out the sidebar.

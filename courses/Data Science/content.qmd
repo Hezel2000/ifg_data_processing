@@ -1,0 +1,6 @@
+---
+title: 'Data Science'
+---
+
+# Course Link
+Click <a href="https://geochemistry.streamlit.app">here</a> to go to the Data Science course.
