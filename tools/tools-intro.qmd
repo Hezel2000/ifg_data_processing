@@ -2,4 +2,4 @@
 title: 'Tools'
 ---
 
-The application for standard powders is in development – a sneak peak is available from the sidebar.
+The first available tool lets you explore our availabe epma and powder standards.

@@ -1,0 +1,6 @@
+---
+title: 'Microanalytic'
+---
+
+# Course Link
+Click <a href="https://geocourses.streamlit.app">here</a> to go to the Data Science course.

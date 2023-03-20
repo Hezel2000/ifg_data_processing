@@ -199,5 +199,35 @@
   },
   "courses/tutorials/sem.qmd": {
     "sem.html": "67a3b864"
+  },
+  "courses-tutorials/courses/cosmochemistry.qmd": {
+    "cosmochemistry.html": "20aaa33c"
+  },
+  "courses-tutorials/courses/data_science.qmd": {
+    "data_science.html": "bf3f6330"
+  },
+  "courses-tutorials/tutorials/sem.qmd": {
+    "sem.html": "48454fff"
+  },
+  "courses-tutorials/tutorials/preparation.qmd": {
+    "preparation.html": "f9a0a078"
+  },
+  "courses-tutorials/tutorials/Welcome.qmd": {
+    "Welcome.html": "adfec2a3"
+  },
+  "courses-tutorials/tutorials/epma.qmd": {
+    "epma.html": "5890d7d6"
+  },
+  "courses-tutorials/tutorials/micro-XRF.qmd": {
+    "micro-XRF.html": "fcdac97c"
+  },
+  "courses-tutorials/courses-intro.qmd": {
+    "courses-intro.html": "a7a1ab1b"
+  },
+  "tools/standards/powder-standards.qmd": {
+    "powder-standards.html": "16d53b3e"
+  },
+  "courses-tutorials/courses/microanalytic.qmd": {
+    "microanalytic.html": "08f39871"
   }
 }

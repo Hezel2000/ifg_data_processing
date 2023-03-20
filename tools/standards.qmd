@@ -1,0 +1,6 @@
+---
+title: 'Standards'
+---
+
+Explore our available standards <a href="https://geostandards.streamlit.app">here</a>\
+Please be aware that parts of this app are still in development.

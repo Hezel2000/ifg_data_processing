@@ -18,7 +18,7 @@ website:
       - text: "Tools"
         file: tools/tools-intro.qmd
       - text: "Courses & Tutorials"
-        file: courses/courses-intro.qmd
+        file: courses-tutorials/courses-intro.qmd
   sidebar:
     # - title: 'ELN'
     #   style: "docked"
@@ -73,27 +73,24 @@ website:
         - section: 'Introduction'
           contents: 
             - tools/tools-intro.qmd
-        - section: 'Powder Standards'
-          contents: 
-            - tools/powder-stds/standards.qmd
+            - tools/standards.qmd
     - title: "Courses & Tutorials"
       collapse-level: 1
       contents:
         - section: 'Introduction'
           contents:
-           - courses/courses-intro.qmd
-        - section: 'Data Science'
+           - courses-tutorials/courses-intro.qmd
+        - section: 'Courses'
           contents:
-            - courses/Data Science/content.qmd
-        - section: 'Cosmochemistry'
-          contents:
-            - courses/Cosmochemistry/content.qmd
+            - courses-tutorials/courses/data_science.qmd
+            - courses-tutorials/courses/cosmochemistry.qmd
+            - courses-tutorials/courses/microanalytic.qmd
         - section: 'Tutorials'
           contents:
-            - courses/tutorials/preparation.qmd
-            - courses/tutorials/epma.qmd
-            - courses/tutorials/sem.qmd
-            - courses/tutorials/micro-XRF.qmd
+            - courses-tutorials/tutorials/preparation.qmd
+            - courses-tutorials/tutorials/epma.qmd
+            - courses-tutorials/tutorials/sem.qmd
+            - courses-tutorials/tutorials/micro-XRF.qmd
     
 
 format:
