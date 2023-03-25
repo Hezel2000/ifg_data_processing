@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DataPro - µ.XRF</title>
+<title>DataPro - EBSD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -106,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">µ.XRF</h1>
+      <h1 class="quarto-secondary-nav-title">EBSD</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -184,12 +184,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../courses-tutorials/tutorials/ebsd.html" class="sidebar-item-text sidebar-link">EBSD</a>
+  <a href="../../courses-tutorials/tutorials/ebsd.html" class="sidebar-item-text sidebar-link active">EBSD</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../courses-tutorials/tutorials/micro-XRF.html" class="sidebar-item-text sidebar-link active">µ.XRF</a>
+  <a href="../../courses-tutorials/tutorials/micro-XRF.html" class="sidebar-item-text sidebar-link">µ.XRF</a>
   </div>
 </li>
       </ul>
@@ -203,15 +203,30 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-micro-x-ray-flourescense-µ.xrf" id="toc-the-micro-x-ray-flourescense-µ.xrf" class="nav-link active" data-scroll-target="#the-micro-x-ray-flourescense-µ.xrf">The micro X-ray flourescense (µ.XRF)</a></li>
-  <li><a href="#switch-on-the-machine" id="toc-switch-on-the-machine" class="nav-link" data-scroll-target="#switch-on-the-machine">Switch on the Machine</a></li>
-  <li><a href="#loading-the-sample" id="toc-loading-the-sample" class="nav-link" data-scroll-target="#loading-the-sample">Loading the Sample</a></li>
-  <li><a href="#point-analysis-with-the-eds" id="toc-point-analysis-with-the-eds" class="nav-link" data-scroll-target="#point-analysis-with-the-eds">Point Analysis with the EDS</a></li>
-  <li><a href="#focusing-the-sample" id="toc-focusing-the-sample" class="nav-link" data-scroll-target="#focusing-the-sample">Focusing the sample</a></li>
-  <li><a href="#acquiring-a-montage-image-of-the-sample" id="toc-acquiring-a-montage-image-of-the-sample" class="nav-link" data-scroll-target="#acquiring-a-montage-image-of-the-sample">Acquiring a Montage Image of the Sample</a></li>
-  <li><a href="#element-maps-with-the-eds" id="toc-element-maps-with-the-eds" class="nav-link" data-scroll-target="#element-maps-with-the-eds">Element Maps with the EDS</a></li>
-  <li><a href="#display-the-results-of-an-element-map" id="toc-display-the-results-of-an-element-map" class="nav-link" data-scroll-target="#display-the-results-of-an-element-map">Display the Results of an Element Map</a></li>
-  <li><a href="#unload-the-sample-and-switch-off-the-machine" id="toc-unload-the-sample-and-switch-off-the-machine" class="nav-link" data-scroll-target="#unload-the-sample-and-switch-off-the-machine">Unload the Sample and Switch Off the Machine</a></li>
+  <li><a href="#vorbereitungen-0925" id="toc-vorbereitungen-0925" class="nav-link active" data-scroll-target="#vorbereitungen-0925">Vorbereitungen [09:25]</a>
+  <ul class="collapse">
+  <li><a href="#einbau-der-probe-sicherheitsabstand-einstellen-409" id="toc-einbau-der-probe-sicherheitsabstand-einstellen-409" class="nav-link" data-scroll-target="#einbau-der-probe-sicherheitsabstand-einstellen-409">Einbau der Probe &amp; Sicherheitsabstand einstellen [4:09]</a></li>
+  <li><a href="#verzerrung-durch-die-70º-neigung-der-probe-korrigieren-133" id="toc-verzerrung-durch-die-70º-neigung-der-probe-korrigieren-133" class="nav-link" data-scroll-target="#verzerrung-durch-die-70º-neigung-der-probe-korrigieren-133">Verzerrung durch die 70º Neigung der Probe korrigieren [1:33]</a></li>
+  <li><a href="#arbeitsabstand-einstellen-103" id="toc-arbeitsabstand-einstellen-103" class="nav-link" data-scroll-target="#arbeitsabstand-einstellen-103">Arbeitsabstand einstellen [1:03]</a></li>
+  <li><a href="#detektor-einschalten-einfahren-241" id="toc-detektor-einschalten-einfahren-241" class="nav-link" data-scroll-target="#detektor-einschalten-einfahren-241">Detektor einschalten &amp; einfahren [2:41]</a></li>
+  </ul></li>
+  <li><a href="#messungen-1806" id="toc-messungen-1806" class="nav-link" data-scroll-target="#messungen-1806">Messungen [18:06]</a>
+  <ul class="collapse">
+  <li><a href="#ebsd-analysen-mit-flamenco-947" id="toc-ebsd-analysen-mit-flamenco-947" class="nav-link" data-scroll-target="#ebsd-analysen-mit-flamenco-947">EBSD-Analysen mit Flamenco [9:47]</a></li>
+  <li><a href="#maps-aufnehmen-mit-flamenco-819" id="toc-maps-aufnehmen-mit-flamenco-819" class="nav-link" data-scroll-target="#maps-aufnehmen-mit-flamenco-819">Maps aufnehmen mit Flamenco [8:19]</a></li>
+  </ul></li>
+  <li><a href="#auswertungen-2433" id="toc-auswertungen-2433" class="nav-link" data-scroll-target="#auswertungen-2433">Auswertungen [24:33]</a>
+  <ul class="collapse">
+  <li><a href="#maps-bearbeiten-mit-tango-1149" id="toc-maps-bearbeiten-mit-tango-1149" class="nav-link" data-scroll-target="#maps-bearbeiten-mit-tango-1149">Maps bearbeiten mit Tango [11:49]</a></li>
+  <li><a href="#pol-figuren-mit-mambo-637" id="toc-pol-figuren-mit-mambo-637" class="nav-link" data-scroll-target="#pol-figuren-mit-mambo-637">Pol-Figuren mit Mambo [6:37]</a></li>
+  <li><a href="#mit-twist-eigene-daten-hinzufügen-454" id="toc-mit-twist-eigene-daten-hinzufügen-454" class="nav-link" data-scroll-target="#mit-twist-eigene-daten-hinzufügen-454">Mit Twist eigene Daten hinzufügen [4:54]</a></li>
+  <li><a href="#maps-mit-stitch-zusammen-fügen-113" id="toc-maps-mit-stitch-zusammen-fügen-113" class="nav-link" data-scroll-target="#maps-mit-stitch-zusammen-fügen-113">Maps mit Stitch zusammen fügen [1:13]</a></li>
+  </ul></li>
+  <li><a href="#abschluss-0038" id="toc-abschluss-0038" class="nav-link" data-scroll-target="#abschluss-0038">Abschluss [00:38]</a>
+  <ul class="collapse">
+  <li><a href="#detektor-heraus-fahren-038" id="toc-detektor-heraus-fahren-038" class="nav-link" data-scroll-target="#detektor-heraus-fahren-038">Detektor heraus fahren [0:38]</a></li>
+  <li><a href="#verzerrungskorrektur-zurück-stellen" id="toc-verzerrungskorrektur-zurück-stellen" class="nav-link" data-scroll-target="#verzerrungskorrektur-zurück-stellen">Verzerrungskorrektur zurück stellen</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -220,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">µ.XRF</h1>
+<h1 class="title d-none d-lg-block">EBSD</h1>
 </div>
 
 
@@ -235,43 +250,78 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="the-micro-x-ray-flourescense-µ.xrf" class="level2">
-<h2 class="anchored" data-anchor-id="the-micro-x-ray-flourescense-µ.xrf">The micro X-ray flourescense (µ.XRF)</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/541030264" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
+<section id="vorbereitungen-0925" class="level1">
+<h1>Vorbereitungen [09:25]</h1>
+<section id="einbau-der-probe-sicherheitsabstand-einstellen-409" class="level2">
+<h2 class="anchored" data-anchor-id="einbau-der-probe-sicherheitsabstand-einstellen-409">Einbau der Probe &amp; Sicherheitsabstand einstellen [4:09]</h2>
+<p>Die Probe muss bedampft sein, und ausreichend leitend über Kupfer-Band mit dem Halter verbunden sein –&nbsp;wie im Video zu sehen. Anschließend wird die Probe eingebaut, wobei aufgrund der großen Höhe des Halters unbedingt ein Sicherheitsabstand eingestellt werden muss.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/Z6StuZMDuo4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="switch-on-the-machine" class="level2">
-<h2 class="anchored" data-anchor-id="switch-on-the-machine">Switch on the Machine</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566706719" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
+<section id="verzerrung-durch-die-70º-neigung-der-probe-korrigieren-133" class="level2">
+<h2 class="anchored" data-anchor-id="verzerrung-durch-die-70º-neigung-der-probe-korrigieren-133">Verzerrung durch die 70º Neigung der Probe korrigieren [1:33]</h2>
+<p>Die Probe ist um 70º geneigt, damit gebeugten Elektronen auf den Detektor auftreffen können. Allerdings verzerrt diese Neigung das Elektronen-Bild enorm. Das kann und sollte in jedem Fall durch die Software korrigiert werden. Nicht vergessen, diese Korrektur am Ende des Messtages wieder auf normal zurück zu stellen!</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/YTtqO7hvNoE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="loading-the-sample" class="level2">
-<h2 class="anchored" data-anchor-id="loading-the-sample">Loading the Sample</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566700261" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
+<section id="arbeitsabstand-einstellen-103" class="level2">
+<h2 class="anchored" data-anchor-id="arbeitsabstand-einstellen-103">Arbeitsabstand einstellen [1:03]</h2>
+<p>Der Arbeitsabstand für EBSD-Messungen muss zunächst eingestellt werden, und sollte zwischen 16 und 21 mm liegen. Wir nehmen häufig 17 oder 20 mm.!</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/2AZ08PVZBDY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="point-analysis-with-the-eds" class="level2">
-<h2 class="anchored" data-anchor-id="point-analysis-with-the-eds">Point Analysis with the EDS</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566697766" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
+<section id="detektor-einschalten-einfahren-241" class="level2">
+<h2 class="anchored" data-anchor-id="detektor-einschalten-einfahren-241">Detektor einschalten &amp; einfahren [2:41]</h2>
+<p>Der Detektor muss zunächst eingeschaltet und eingefahren werden. Das Video zeigt das in voller Länge –&nbsp;da darf vorsichtig ein wenig nach vorne gespult werden.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/gV9PL0qkNlM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="focusing-the-sample" class="level2">
-<h2 class="anchored" data-anchor-id="focusing-the-sample">Focusing the sample</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566711373" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
 </section>
-<section id="acquiring-a-montage-image-of-the-sample" class="level2">
-<h2 class="anchored" data-anchor-id="acquiring-a-montage-image-of-the-sample">Acquiring a Montage Image of the Sample</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566707832" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
+<section id="messungen-1806" class="level1">
+<h1>Messungen [18:06]</h1>
+<section id="ebsd-analysen-mit-flamenco-947" class="level2">
+<h2 class="anchored" data-anchor-id="ebsd-analysen-mit-flamenco-947">EBSD-Analysen mit Flamenco [9:47]</h2>
+<p>Die EBSD-Programme –&nbsp;für Analysen wie Auswertungen –&nbsp;scheinen von irgendwelchen Tanz-Verrückten programmiert, zumindest heißen sie alle nach Tänzen. Mit dem ersten Programm –&nbsp;Flamenco –&nbsp;werden die eigentlichen EBSD-Analysen gemacht. Wir schauen uns zunächst an, wie einzelne Punkte mit Flamenco gemessen werden, d.h. wie bestimmen die Orientierung eines einzelnen Minerals. Dazu wählt man aus einer Liste zunächst die Minerale aus, welche man in der Probe erwartet, d.h., man sollt wissen, welche Minerale man untersuchen möchte.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/1aplDNKy1wo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="element-maps-with-the-eds" class="level2">
-<h2 class="anchored" data-anchor-id="element-maps-with-the-eds">Element Maps with the EDS</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566703279" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
+<section id="maps-aufnehmen-mit-flamenco-819" class="level2">
+<h2 class="anchored" data-anchor-id="maps-aufnehmen-mit-flamenco-819">Maps aufnehmen mit Flamenco [8:19]</h2>
+<p>Sehr häufig möchte man die Verteilung aller Mineralorientierungen in einem Gestein, d.h. in einem Schliff wissen. Dazu nimmt man automatisiert ein Raster von Punkten über einen Ausschnitt der Probe, oder die gesamte Probe auf. Diese EBSD-Maps können wieder sehr einfach mit Flamenco programmiert und aufgenommen werden.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/oy94IKkPbZI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
-<section id="display-the-results-of-an-element-map" class="level2">
-<h2 class="anchored" data-anchor-id="display-the-results-of-an-element-map">Display the Results of an Element Map</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566965014" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
 </section>
-<section id="unload-the-sample-and-switch-off-the-machine" class="level2">
-<h2 class="anchored" data-anchor-id="unload-the-sample-and-switch-off-the-machine">Unload the Sample and Switch Off the Machine</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://player.vimeo.com/video/566709937" frameborder="0" allow="autoplay; title=" "="" fullscreen;="" picture-in-picture"="" allowfullscreen=""></iframe></div>
+<section id="auswertungen-2433" class="level1">
+<h1>Auswertungen [24:33]</h1>
+<section id="maps-bearbeiten-mit-tango-1149" class="level2">
+<h2 class="anchored" data-anchor-id="maps-bearbeiten-mit-tango-1149">Maps bearbeiten mit Tango [11:49]</h2>
+<p>Die Orientierungen der Minerale lassen sich mit dem Programm Tango farbcodiert darstellen. Es können eine Vielzahl unterschiedlicher Parameter ausgewählt und auf Maps wiedergegeben werden.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/amw6yzRRwQI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="pol-figuren-mit-mambo-637" class="level2">
+<h2 class="anchored" data-anchor-id="pol-figuren-mit-mambo-637">Pol-Figuren mit Mambo [6:37]</h2>
+<p>Mit dem Programm Mambo können dann die Mineralorientierungen in Pol-Figuren dargestellt werden. Besonders elegant ist die Verbindung mit Tango, sodass die Farbcodierung der Polfiguren in Mambo den Farbcodierungen der Maps in Tango entspricht.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/g8F_IAOqpLs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="mit-twist-eigene-daten-hinzufügen-454" class="level2">
+<h2 class="anchored" data-anchor-id="mit-twist-eigene-daten-hinzufügen-454">Mit Twist eigene Daten hinzufügen [4:54]</h2>
+<p>Möglicherweise möchte man ein Mineral untersuchen, das in keiner der angebotenen Datenbanken existiert. Dann kann mit dem Programm Twist das zu untersuchende Mineral manuell hinzugefügt werden. Dazu müssen allerdings die kristallgraphischen Parameter des Minerals bekannt sein, welche über eine Eingabemaske dem Programm mitgeteilt werden müssen.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/Rd5ekqxuzy8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="maps-mit-stitch-zusammen-fügen-113" class="level2">
+<h2 class="anchored" data-anchor-id="maps-mit-stitch-zusammen-fügen-113">Maps mit Stitch zusammen fügen [1:13]</h2>
+<p>Hat man mehrere benachbarte Maps gemessen, können diese mit dem Programm Stitch zusammen gefügt werden, allerdings nur, wenn die Maps mit derselben Step-Size aufgenommen wurden –&nbsp;darauf sollte man entsprechend bei der Erstellung der Maps achten. Nachdem eine solche kombinierte Map erstellt wurde, kann diese mit den oben erklärten Programm als Gesamtmap ausgewertet werden.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/xyP3CYE4Oig" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="abschluss-0038" class="level1">
+<h1>Abschluss [00:38]</h1>
+<section id="detektor-heraus-fahren-038" class="level2">
+<h2 class="anchored" data-anchor-id="detektor-heraus-fahren-038">Detektor heraus fahren [0:38]</h2>
+<p>Zum Abschluss in jedem Fall den Detektor heraus fahren, die Probe entnehmen, Probenkammer wieder evakuieren, alles aufräumen –&nbsp;und die Probe am Besten gleich wieder mitnehmen.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/I0pjV1mEfSc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="verzerrungskorrektur-zurück-stellen" class="level2">
+<h2 class="anchored" data-anchor-id="verzerrungskorrektur-zurück-stellen">Verzerrungskorrektur zurück stellen</h2>
+<p>Siehe Kapitel 1.2: die Software-Korrektur für die Elektronen-Bilder wieder zurück stellen.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

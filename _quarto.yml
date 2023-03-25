@@ -90,6 +90,7 @@ website:
             - courses-tutorials/tutorials/preparation.qmd
             - courses-tutorials/tutorials/epma.qmd
             - courses-tutorials/tutorials/sem.qmd
+            - courses-tutorials/tutorials/ebsd.qmd
             - courses-tutorials/tutorials/micro-XRF.qmd
     
 

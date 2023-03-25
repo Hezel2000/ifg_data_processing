@@ -229,5 +229,8 @@
   },
   "courses-tutorials/courses/microanalytic.qmd": {
     "microanalytic.html": "08f39871"
+  },
+  "courses-tutorials/tutorials/ebsd.qmd": {
+    "ebsd.html": "aea0fd9b"
   }
 }
