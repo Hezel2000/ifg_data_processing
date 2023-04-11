@@ -3,7 +3,7 @@ title: 'Microanalytic'
 ---
 
 # Course Link
-Click <a href="https://geocourses.streamlit.app">here</a> to go to the Data Science course.
+<a href="https://geocourses.streamlit.app">Hier</a> geht es zum Kurs Mikroanalytik.
 
 **Die Veranstaltung besteht aus**
 ca. 100 Seiten Skript, aufgeteilt in die 3 Teilskripte

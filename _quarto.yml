@@ -34,9 +34,7 @@ website:
     - title: "Microprobe"
       collapse-level: 1
       contents:
-        - section: 'Introduction'
-          contents:
-          - microprobe/epma-intro.qmd
+        - microprobe/epma-intro.qmd
         - section: 'Flank Method'
           contents:
           - microprobe/flank-method/welcome.qmd
@@ -77,9 +75,7 @@ website:
     - title: "Courses & Tutorials"
       collapse-level: 1
       contents:
-        - section: 'Introduction'
-          contents:
-           - courses-tutorials/courses-intro.qmd
+        - courses-tutorials/courses-intro.qmd
         - section: 'Courses'
           contents:
             - courses-tutorials/courses/data_science.qmd

@@ -1,21 +1,23 @@
 ---
-title: 'Courses & Tutorials'
+title: 'Welcome'
 ---
 
-# Courses
+#Courses & Tutorials
+
+## Courses
 Two courses are currenlty available:\
 1. Data Science (german only, english coming later 2023)\
 2. Cosmochemistry (german & english)\
 
-## Intro
+### Intro
 {{< video https://youtu.be/amJkqAgkris >}}
 
-## Überblick
+### Überblick
 
 **Wie zu schauen ist – oder zumindest: wie geschaut werden kann**\
 Anhalten, nachvollziehen, eventuell zurückspulen und dazu eigen Skizzen oder Mitschriebe anfertigen\n
 Einige wenige Videos haben aus rechtlichen Gründen ein Passwort, das erhaltet Ihr von mir
 
 
-# Tutorials
+## Tutorials
 Check out the sidebar.

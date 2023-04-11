@@ -3,4 +3,4 @@ Title: 'Tools'
 ---
 
 This way to the EPMA tools:\
-<a href="https://epma-tools.streamlit.app">EPMA Tools</a>
+<a href="https://tools-epma.streamlit.app">EPMA Tools</a>
