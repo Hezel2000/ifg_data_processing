@@ -1,6 +1,8 @@
 ---
-title: 'Electron Microprobe Data Processing'
+title: 'Welcome'
 ---
+
+# Electron Microprobe Data Processing
 
 The flank data reduction application, including all documentation is up and running – check it out from the sidebar.
 

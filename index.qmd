@@ -1,5 +1,5 @@
 ---
-title: 'File Preparation'
+title: 'DataPro'
 ---
 
 ## Welcome to Lab Data Processing v0.1
