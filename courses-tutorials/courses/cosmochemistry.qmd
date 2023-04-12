@@ -3,4 +3,6 @@ title: 'Cosmochemistry'
 ---
 
 # Course Link
-Click <a href="https://geocourses.streamlit.app">here</a> to go to the Data Science course.
+Click <a href="https://geocourses.streamlit.app/Cosmochemistry">here</a> to go to the Cosmochemistry course.
+
+<a href="https://geocourses.streamlit.app/Cosmochemistry">Hier</a> geht es zum Kosmochemie Kurs.

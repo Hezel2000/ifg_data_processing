@@ -3,7 +3,7 @@ title: 'Microanalytic'
 ---
 
 # Kurs-Link & Überblick
-<a href="https://geocourses.streamlit.app">Hier</a> geht es zum Kurs Mikroanalytik.
+<a href="https://geocourses.streamlit.app/Microanalysis">Hier</a> geht es zum Kurs Mikroanalytik.
 
 **Die Veranstaltung besteht aus**
 ca. 100 Seiten Skript, aufgeteilt in die 3 Teilskripte

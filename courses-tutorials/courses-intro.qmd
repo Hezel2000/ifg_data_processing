@@ -7,7 +7,7 @@ title: 'Welcome'
 ## Courses
 Three courses are currenlty available:\
 1. Data Science (german only, english coming later 2023)\
-(2. Cosmochemistry (german & english) – coming in the next days\)
+2. Cosmochemistry (german & english)\
 3. Microanalytic (german only, english coming in 2024)
 
 ### Intro
