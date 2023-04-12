@@ -3,7 +3,8 @@ title: 'Data Science'
 ---
 
 # Course Link
-Click <a href="https://geocourses.streamlit.app/Data_Science">here</a> to go to the Data Science course.
+Click <a href="https://geocourses.streamlit.app/Data_Science
+">here</a> to go to the Data Science course.
 
 **Die Veranstaltung besteht aus**\
     - ca. 100 Seiten Skript, aufgeteilt in die 3 Teilskripte
