@@ -1,0 +1,10 @@
+---
+title: 'Venue'
+---
+
+**Venue Address**\
+Goethe-Universität Frankfurt\
+Campus Riedberg\
+Altenhöferallee 1\
+60438 Frankfurt am Main\
+Germany

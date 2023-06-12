@@ -1,7 +1,0 @@
----
-title: 'Welcome'
----
-
-## Welcome
-
-For a sneak peak into the data processing application, check <a href="http://marahochstein-epma-data-test-92eh40.streamlit.app">this</a> out.

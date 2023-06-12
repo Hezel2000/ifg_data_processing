@@ -1,6 +1,0 @@
----
-Title: 'Tools'
----
-
-This way to the EPMA tools:\
-<a href="https://tools-epma.streamlit.app">EPMA Tools</a>

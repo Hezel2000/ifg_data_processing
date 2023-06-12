@@ -2,96 +2,22 @@ project:
   type: website
 
 website:
-  title: DataPro #IfG Data Processsing Center
+  title: Data Science 2023 #IfG Data Processsing Center
   navbar:
-    background: primary
+    background: secondary
     search: true
     left:
       - text: "Home"
         file: index.qmd
-      # - text: "ELN"
-      #   file: eln/eln-intro.qmd
-      - text: "Microprobe"
-        file: microprobe/epma-intro.qmd
-      - text: "Mass Spectrometry"
-        file: mass-spec/mass-spec-intro.qmd
-      - text: "Tools"
-        file: tools/tools-intro.qmd
-      - text: "Courses & Tutorials"
-        file: courses-tutorials/courses-intro.qmd
-  sidebar:
-    # - title: 'ELN'
-    #   style: "docked"
-    #   background: light
-    #   collapse-level: 1
-    #   contents:
-    #     - section: 'Introduction'
-    #       contents:
-    #        - eln/eln-intro.qmd
-    #     - section: 'Two'
-    #       contents:
-    #         - eln/eln-test2.qmd
-    - title: "Microprobe"
-      collapse-level: 1
-      contents:
-        - microprobe/epma-intro.qmd
-        - section: 'Flank Method'
-          contents:
-          - microprobe/flank-method/welcome.qmd
-          - microprobe/flank-method/basics.qmd
-          - microprobe/flank-method/data-reduction-program.qmd
-          - microprobe/flank-method/video-tutorials.qmd
-          - microprobe/flank-method/publications.qmd
-          - microprobe/flank-method/step-by-step.qmd
-          - microprobe/flank-method/glossary.qmd
-        - section: 'ELN \& Data Processing'
-          contents:
-          - microprobe/data-processing/welcome.qmd
-          - microprobe/data-processing/file-prep.qmd
-        - section: 'Tools'
-          contents:
-          - microprobe/tools/welcome.qmd
-    - title: "Mass-Spectrometry"
-      collapse-level: 1
-      contents:
-        - section: 'Introduction'
-          contents:
-            - mass-spec/mass-spec-intro.qmd
-        - section: 'B-isotopes'
-          contents:
-            - mass-spec/boron/documentation.qmd
-            - mass-spec/boron/application.qmd
-        - section: 'Fe-isotopes'
-          contents:
-            - mass-spec/iron/basics.qmd
-            - mass-spec/iron/data reduction.qmd
-    - title: "Tools"
-      collapse-level: 1
-      contents:
-        - section: 'Introduction'
-          contents: 
-            - tools/tools-intro.qmd
-            - tools/standards.qmd
-    - title: "Courses & Tutorials"
-      collapse-level: 1
-      contents:
-        - courses-tutorials/courses-intro.qmd
-        - section: 'Courses'
-          contents:
-            - courses-tutorials/courses/data_science.qmd
-            - courses-tutorials/courses/cosmochemistry.qmd
-            - courses-tutorials/courses/microanalytic.qmd
-        - section: 'Tutorials'
-          contents:
-            - courses-tutorials/tutorials/preparation.qmd
-            - courses-tutorials/tutorials/epma.qmd
-            - courses-tutorials/tutorials/sem.qmd
-            - courses-tutorials/tutorials/ebsd.qmd
-            - courses-tutorials/tutorials/micro-XRF.qmd
-    
+      - text: "Program"
+        file: program.qmd
+      - text: "Venue"
+        file: venue.qmd
+      - text: "Announcement"
+        file: annnouncement.qmd  
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true

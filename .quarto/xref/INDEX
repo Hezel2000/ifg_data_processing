@@ -232,5 +232,17 @@
   },
   "courses-tutorials/tutorials/ebsd.qmd": {
     "ebsd.html": "aea0fd9b"
+  },
+  "courses-tutorials/courses/data_science_short_course.qmd": {
+    "data_science_short_course.html": "9c02759c"
+  },
+  "test2.qmd": {
+    "test2.html": "ce08c815"
+  },
+  "data_science_short_course.qmd": {
+    "data_science_short_course.html": "9b86b4d3"
+  },
+  "venue.qmd": {
+    "venue.html": "e5b1fb37"
   }
 }

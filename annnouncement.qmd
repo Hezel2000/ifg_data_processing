@@ -1,0 +1,30 @@
+---
+title: 'Announcement'
+---
+
+
+## Announcement
+*New DMG PhD Short Course:\
+Data Science in Geo- and Cosmochemistry*
+
+::: {.column-margin}
+![](images/goethe-logo.png)
+:::
+
+The amount of geochemical and cosmochemical data increases exponentially since many years. It
+is a challenge in particular for students and young scientists to keep an overview over all these data, but it is also a chance to obtain originally new insights from this wealth of data. Data Science in Geosciences uses all available data, processes these into easily understandable information, and uses statistical or machine learning methods to search for new insights.
+{{< page break >}}
+::: {.column-margin}
+![](images/python-logo.svg)
+:::
+
+The Data Science Course has two parts: First an online part, consisting of 3 x 2 hours over 10 days, including exercises for at home. The online part covers basic programming skills in Python using plenty of examples and exercises. In the subsequent presence part, we will use concrete examples to program solutions for geo-/cosmochemical problems. For example visualising data in plots or on maps, modelling an AFC-process or isotope fractionation, or produce data reduction work-flows. Bringing your own project or idea is equally possible and welcome. Although the focus is clearly on Data Science, this is also just part of the current massive changes we experience by the digital epoch we entered. We will therefore have a diverse programme including many perspectives, covering various topics and aspects of our digital, geo-/cosmochemical everyday life. We will have presentations from (inter)national leading experts covering e.g., the following topics: Databases, Repositories & Co. – are these different, or is it all the same? Digital Identity: Orcid, Researchgate & Co. – what is it, do I need it, and if yes, what? Publishing done right: Paper, Data only, Software, GitHub, Open Source – and all the rest. Copyright, Right of Use & Licences: all just stolen, or what am I allowed to do? Not just Data Science: Programming complex processes.
+
+**Language & Requirements** The online part is available in German and English, the presence part will be in English. You should have an M.Sc. degree, in exceptions, a B.Sc. degree might be sufficient. Programming knowledge is advantageous, but not a requirement.\
+**Registration** until 1. June to dominik.hezel=at=em.uni-frankfurt.de\
+**Start Online-Part** Mo, 24. July 2023\
+**Presence Part** Wed, 02. – Fr, 04. August 2023 at the Institut für Geowissenschaften in Frankfurt\
+**Number of Participants** 20\
+**Cost** Participation is free, however, travel and accommodation are not covered. A a social dinner is planned. Non-resident student members of the DMG are eligible to receive a 100 Euro travel allowance.\
+**ECTS-Points** 6\
+**Contact & Questions to** PD Dr. Dominik Hezel (dominik.hezel=at=em.uni-frankfurt.de), Goethe Universität Frankfurt, Institut für Geowissenschaften.

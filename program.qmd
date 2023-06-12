@@ -1,0 +1,82 @@
+---
+title: 'DMG Data Science Short Course 2023'
+---
+
+*Last Update: 23.05.2023*
+
+<!-- # Course Link
+Click <a href="https://geocourses.streamlit.app/Cosmochemistry">here</a> to go to the Cosmochemistry course.
+
+<a href="https://geocourses.streamlit.app/Cosmochemistry">Hier</a> geht es zum Kosmochemie Kurs.
+
+# Reihenfolge der zu schauenden Videos
+![Sollte selbst erklärend sein.](images/sequence_of_videos.png) -->
+
+
+
+## Preliminary Program
+
+### Online-Part
+Mo, 24. July 2023, 08:30 – 10:30 1. online meeting\
+Mo, 24. July 2023, 08:30 – 10:30 2. online meeting\
+Mo, 24. July 2023, 08:30 – 10:30 3. online meeting
+
+### Presence-Part
+
+### Mi, 02. August
+08:30 – 10:30 Venue open\
+08:530 – 09:00 Welcome\
+09:00 – 10:30 Programming Exercises\
+10:30 – 10:45 Coffee-Break\
+10:45 – 11:30 Kirsten Elger: IGSN, Digitale Identität: Orcid, Researchgate & Co. – was ist das, brauche ich das – und wenn ja: was?\
+11:30 – 11:45 Coffee-Break\
+11:45 – 13:00 Programming Exercises\
+*13:00 – 14:00 lunch break*\
+14:00 – 14:30 Thomas Rose: Richtig publizieren: Paper, Daten only, Software, GitHub, Open Source – und der ganze Rest\
+14:30 – 16:00 Programming Exercises\
+16:00 – 16:15 Coffee-Break\
+16:15 – 17:00 Rechtsabteilung: Urheberrechte, Nutzungsrechte & Lizenzen: alles nur geklaut, oder was darf ich eigentlich?\
+17:00 – 18:00 Programming Exercises\
+18:00 Closing
+
+### Do, 03. August
+09:00 – 10:30 Programming Exercises\
+10:30 – 10:45 Coffee-Break\
+10:45 – 11:30 Alex Prent: MetaData, Vocabularies, AusGeochem & OneGeochemistry\
+11:30 – 11:45 Coffee-Break\
+11:45 – 13:00 Programming Exercises\
+*13:00 – 14:00 lunch break*\
+14:00 – 14:30 Thibault Duretz: 1D Diffusion, 2 hours with 15 min break, send 1-2 papers to Thibault, e.g., from Dohmen or Sumit\
+14:30 – 16:00 Programming Exercises\
+16:00 – 16:15 Coffee-Break\
+16:15 – 17:00 Kerstin Lehnert: EarthChem\
+17:00 – 18:00 Programming Exercises\
+18:00 Uhr Ende
+
+**19:00 Social Evening – likely at Lahmer Esel**
+
+### Fr, 04. August
+09:00 – 10:30 Streamlit\
+10:30 – 10:45 Coffee-Break\
+GlobaID 30 min\
+10:45 – 11:30 Marthe Klöcking: Datenbanken, Repositorien & Co. – gibt es da Unterschiede, oder ist das alles dasselbe?, GEOROC\
+11:30 – 11:45 Coffee-Break\
+11:45 – 13:00 Quarto\
+*13:00 – 14:00 lunch break*\
+14:00 – 14:30 Dominik Hezel: NFDI4Earth\
+14:30 – 16:00 Programming Exercises\
+
+**Closing?**
+
+16:00 – 16:15 Kaffee-Pause\
+16:15 – 17:00 Kerstin Lehnert: EarthChem oder was darf ich eigentlich?\
+17:00 – 18:00 Programming Exercises\
+18:00 Uhr Ende\
+
+
+Miguel Bernecker (GU Frankfurt), json, parser, binäre Dateien – halber Nachmittag
+Thomas Rose: GlobalID?
+Uzun ELN
+
+## General Information
+**Please bring your computer for the exercises**
