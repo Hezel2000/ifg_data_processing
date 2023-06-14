@@ -2,8 +2,6 @@
 title: 'Announcement'
 ---
 
-
-## Announcement
 *New DMG PhD Short Course:\
 Data Science in Geo- and Cosmochemistry*
 

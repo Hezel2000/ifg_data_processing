@@ -2,3 +2,19 @@
 title: 'DMG Data Science Short Course 2023\n
 @ Goethe University Frankurt'
 ---
+
+## Welcome
+The preparations for the course are now in full swing, and we are very much looking forward seeing you all soon in Frankfurt. You will find all relevant information for this short course on this webpage, so you only need to bookmark this link. The contents of this webpage are contiously updated, according to the following schedule:
+
+- '14. June: webpage & preliminary program online
+- Early July: final program online
+- '20. July: Material for online part online
+- '01. August: Material for presence part online
+
+And if any questions remain – please contact me: dominik.hezel=at=em.uni-frankfurt.de
+
+See you soon in Frankfurt!
+
+ Dominik, Thomas, Miguel, Thibault, Marthe, Kirsten, Alex & Kerstin
+
+*<span style='color:darkgrey'>Last Update: 12.06.2023</span>*

@@ -244,5 +244,11 @@
   },
   "venue.qmd": {
     "venue.html": "e5b1fb37"
+  },
+  "program.qmd": {
+    "program.html": "7803b67e"
+  },
+  "annnouncement.qmd": {
+    "annnouncement.html": "998f4dca"
   }
 }
